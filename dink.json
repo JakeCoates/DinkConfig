@@ -1,6 +1,6 @@
 {
   "killCountInterval": 50,
-  "combatTaskEnabled": false,
+  "combatTaskEnabled": true,
   "gambleRareNotifMessage": "%USERNAME% has received rare loot at gamble count %COUNT%: \n\n%LOOT%",
   "speedrunEnabled": true,
   "questEnabled": true,
@@ -110,11 +110,11 @@
   "sendClanName": true,
   "threadNameTemplate": "[%TYPE%] %MESSAGE%",
   "playerLookupService": "OSRS_HISCORE",
-  "discordWebhook": "https://discord.com/api/webhooks/1545094463133716493/qfoVdiLmWrM9Gd3495dU14FiNufxZGxgCbuJB3c6plNhzqmXAz84htFVNONQJp6Avr1G",
+  "discordWebhook": "https://discord.com/api/webhooks/1551601743996129451/oVeaWA5CSliOlnL6cy78nsUH5IxsbV2ynK5bydXXL7xCXZqln654O13SiiEWxoXtwV34",
   "tradeNotifyMessage": "%USERNAME% traded with %COUNTERPARTY%\n\nReceived:\n%RECEIVED_ITEMS%\n\nGiven:\n%GIVEN_ITEMS%\n",
   "leaguesAreaUnlock": true,
   "lootIncludePlayer": true,
-  "combatTaskMinTier": "EASY",
+  "combatTaskMinTier": "ELITE",
   "grandExchangeIncludeCancelled": false,
   "seasonalPolicy": "FORWARD_TO_LEAGUES",
   "deathSafeExceptions": [
