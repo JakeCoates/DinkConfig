@@ -1,4 +1,4 @@
-# Coffee Corner Dink Configuration
+# Dink Configuration
 
 ## Installation: 
 
